@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<a href="https://github.com/Piyush2961" title="portfolio">
+<!--   <img src="https://user-images.githubusercontent.com/55291327/138004410-00fc6fef-69ef-4a87-a6f0-e14d640a2f0a.png" alt="Hi there" width="100%"> -->
+  <img src="https://github-cool-covers.vercel.app/api/get-cover?username=piyush2961&text=Hi+I'm+Piyush&fontFamily='Rubik+Maze'&pattern='p2'" alt="Please reload as it seems the image is not loaded properly" width="100%">
+</a>
+
+
 <!--
 **Piyush2961/Piyush2961** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
